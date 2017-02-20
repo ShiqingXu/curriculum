@@ -11,13 +11,13 @@ Using the browser's developer tools (right clicking something on the page and cl
 These skills will be helpful for you when you start building.  Either try them yourself or at least make sure you know how to do it:
 
 1. Two ways to move a div around on the page
-1. Stick a div onto the bottom or top of the page
-1. Identify the background color of an existing webpage
-1. Grab the URL for an image from an existing webpage
-1. Center an element horizontally
-1. Identify three ways you can include your CSS styles in a page
-1. Understand how to use classes and ids to target CSS at specific elements on the page
-1. Build a very basic form (even if it doesn't "go" anywhere)
+2. Stick a div onto the bottom or top of the page
+3. Identify the background color of an existing webpage
+4. Grab the URL for an image from an existing webpage
+5. Center an element horizontally
+6. Identify three ways you can include your CSS styles in a page
+7. Understand how to use classes and ids to target CSS at specific elements on the page
+8. Build a very basic form (even if it doesn't "go" anywhere)
 
 ## Setting Up Your Project's Github Repository (optional)
 
@@ -50,9 +50,9 @@ Okay, that's enough Git for the moment -- time to actually build stuff!
 Inside your project folder, create your index.html file
 
   1. Tips:
-      * DONT BE A PERFECTIONIST!  You're just trying to make it *look* like google.com, not actually function like it and it doesn't have to be spaced exactly the same way to the pixel.  Any dropdown menus or form submissions or hover-highlighting should be ignored.
-      * USE GOOGLE! You'll probably run into roadblocks where you can't figure out how to do something so do what all good devs do... Google it!
-      * If you're frustrated with trying to get buttons or inputs to style the way you want (for instance, they seem to just not respond to any styles), look into the css property `-webkit-appearance: none;` or `-moz-appearance` if you're using Firefox.
+     * DONT BE A PERFECTIONIST!  You're just trying to make it *look* like google.com, not actually function like it and it doesn't have to be spaced exactly the same way to the pixel.  Any dropdown menus or form submissions or hover-highlighting should be ignored.
+     * USE GOOGLE! You'll probably run into roadblocks where you can't figure out how to do something so do what all good devs do... Google it!
+     * If you're frustrated with trying to get buttons or inputs to style the way you want (for instance, they seem to just not respond to any styles), look into the css property `-webkit-appearance: none;` or `-moz-appearance` if you're using Firefox.
   2. Start with just putting the main elements on the page (the logo image and search form), then get them placed horizontally.  You can either download the Google logo or link directly to its URL on the web in your `<img>` tag.
   3. Next do the navbar across the top, first building the content and then trying to position it.  Check out [how to build a horizontal CSS navbar](http://www.w3schools.com/css/css_navbar.asp) if you're lost.
   4. Finally, put in the footer, which should be very similar to the top navbar.
@@ -94,6 +94,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 *Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.*
 
 * Add your solution below this line!
+* [XuShiqing's solution (Easy)](https://github.com/ShiqingXu/google-homepage) | [View in browser](https://shiqingxu.github.io/google-homepage/)
 * [Devin's solution (Easy)](https://github.com/devburke/google-homepage) | [View in browser](https://devburke.github.io/google-homepage/)
 * [Jason Epstein's solution (Easty)](https://github.com/JasonSE89/Google_HomePage) | [View in browswer](http://jasonse89.github.io/Google_Homepage/)
 * [dfan14051's solution](https://github.com/dfan14051/google-homepage) | [View in browser](https://dfan14051.github.io/google-homepage/)
@@ -667,7 +668,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [mrexitium's easy solution](https://github.com/mrexitium/google-homepage) | [View in browser](https://rawgit.com/mrexitium/google-homepage/master/index.html)
 * [jovergaag's easy solution](https://github.com/jovergaag/google-homepage) | [View in browser](https://rawgit.com/jovergaag/google-homepage/master/index.html)
 * [belalik's easy solution](https://github.com/belalik/google-page) | [View in browser](https://rawgit.com/belalik/google-page/master/index.html)
-*  [gbhmt's easy solution](https://github.com/gbhmt/google-homepage) | [View in browser](https://rawgit.com/gbhmt/google-homepage/master/index.html)
+* [gbhmt's easy solution](https://github.com/gbhmt/google-homepage) | [View in browser](https://rawgit.com/gbhmt/google-homepage/master/index.html)
 * [At0micr3d's easy solution](https://github.com/at0micr3d/easy-version-google-homepage) | [View in browser](https://rawgit.com/at0micr3d/easy-version-google-homepage/master/index.html)
 * [At0micr3d's solution (Difficult)](https://github.com/at0micr3d/hard-version-google-project) | [View in browser](https://rawgit.com/at0micr3d/hard-version-google-project/master/index.html)
 * [Dckwong's easy solution](https://github.com/dckwong/google-results) | [View in browser](https://rawgit.com/dckwong/google-results/master/google.html#)
@@ -726,10 +727,10 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [Luís Antunes' Solution (easy)](https://github.com/LuisMAntunes/google_homepage) | [View in Browser](https://rawgit.com/LuisMAntunes/google_homepage/master/index.html)
 * [Django's Solution (easy)](https://github.com/django18/google_homepage) | [View in Browser](https://rawgit.com/django18/google_homepage/master/index.html)
 * [Sean Smith's Solution (easy)](https://github.com/bonham000) | [View in Browser](https://rawgit.com/bonham000/Google/master/index.html)
-*  [Soumik Sur's Solution (easy)](https://github.com/soumikcv/google-homepage) | [View in Browser](https://rawgit.com/soumikcv/google-homepage/master/index.html)
+* [Soumik Sur's Solution (easy)](https://github.com/soumikcv/google-homepage) | [View in Browser](https://rawgit.com/soumikcv/google-homepage/master/index.html)
 * [Matt Borgman's 'easy' solution](https://github.com/mgborgman/google_homepage/master/index.html) | ['Difficult' solution](https://github.com/mgborgman/google_results_page/master/index.html) | [View in browser (easy)](https://rawgit.com/mgborgman/google_homepage/master/index.html) | [View in browser (difficult)](https://rawgit.com/mgborgman/google_results_page/master/index.html)
-*  [Andrew Artajos' Solution (easy)](https://github.com/dudepare/google-homepage) | [View in Browser](https://rawgit.com/dudepare/google-homepage/master/index.html)
-*  [Dennis Lee's Solution (easy)](https://github.com/DennisLee7/google-homepage) | [View in Browser](https://rawgit.com/DennisLee7/google-homepage/master/index.html)
+* [Andrew Artajos' Solution (easy)](https://github.com/dudepare/google-homepage) | [View in Browser](https://rawgit.com/dudepare/google-homepage/master/index.html)
+* [Dennis Lee's Solution (easy)](https://github.com/DennisLee7/google-homepage) | [View in Browser](https://rawgit.com/DennisLee7/google-homepage/master/index.html)
 * [Salomon Paluch Solution (easy)](https://github.com/kruppin/google-homepage) | [View in Browser](https://rawgit.com/kruppin/google-homepage/master/index.html)
 * [Robert Oganiani (easy)](https://github.com/rob777/google-homepage) | [View in Browser](https://rawgit.com/rob777/google-homepage/master/index.html)
 * [dzero's Solution (easy)](https://github.com/d-zer0/the_odin_project/tree/master/project1_html_css/google_homepage) | [View in Browser](https://cdn.rawgit.com/d-zer0/the_odin_project/master/project1_html_css/google_homepage/index.html)
@@ -823,7 +824,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [Alan Cruse's solution (Easy)](https://github.com/ADECruse/google-homepage.git) | [View in browser](https://rawgit.com/ADECruse/google-homepage/master/index.html)
 * [Michael Horn's solution (Easy)](https://github.com/HornMichaelS/google-homepage) | [View in browser](https://rawgit.com/HornMichaelS/google-homepage/master/index.html)
 * [husein ghafari's (Easy)](https://github.com/hosghf/google-homepage1) | [View in browser](https://rawgit.com/hosghf/google-homepage1/master/index.html)
-*  [Yasmin's Solution (easy)](https://github.com/KILLJXY/google_homepage)  | [View in browser](https://rawgit.com/KILLJXY/google_homepage/master/homepage.html)
+* [Yasmin's Solution (easy)](https://github.com/KILLJXY/google_homepage)  | [View in browser](https://rawgit.com/KILLJXY/google_homepage/master/homepage.html)
 * [Karthik's Solution (Easy)](https://github.com/kmeda/google_home/master/home.html) | [View in Browser](https://rawgit.com/kmeda/google_home/master/home.html)
 * [Young Jeong's Solution (Easy)](https://github.com/youngjeong46/the_odin_project/master/google-homepage/index.html)|[View in Browser](https://rawgit.com/youngjeong46/the_odin_project/master/google-homepage/index.html)
 * [Ernest Francis's solution](https://github.com/ness122/google-homepage/master/index.html)|[View in browser](https://rawgit.com/ness122/google-homepage/master/index.html)
@@ -926,7 +927,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [Alex Gerig's Solution](https://github.com/cryogenicdew23/google-homepage) | [View in browser](https://rawgit.com/cryogenicdew23/google-homepage/master/index.html)
 * [Rita Johnson's Solution (Easy)](https://github.com/maritabix/google-homepage) | [View in browser](https://rawgit.com/maritabix/google-homepage/master/index.html)
 * [Eren Çataltepe's Solution (Easy)](https://github.com/erencataltepe/google-homepage) | [View in browser](https://rawgit.com/erencataltepe/google-homepage/master/index.html)
- [Hemant's Solution (Easy)](https://github.com/hemrok0101/Google_homepage) | [View In Browser](https://rawgit.com/hemrok0101/Google_homepage/master/index.html)
+   [Hemant's Solution (Easy)](https://github.com/hemrok0101/Google_homepage) | [View In Browser](https://rawgit.com/hemrok0101/Google_homepage/master/index.html)
 * [Tim Lapinskas's Solution (Easy)](https://github.com/tlapinsk/google-homepage) | [View in browser](https://tlapinsk.github.io/google-homepage/)
 * [Lawrence Lawson's Solution (Easy)](https://github.com/Zagan202/google-homepage) | [View in browser](https://rawgit.com/Zagan202/google-homepage/master/index.html)
 * [jeff1st's Solution (Easy)](https://github.com/jeff1st/google-homepage) | [View in browser](https://rawgit.com/jeff1st/google-homepage/master/webpage.html)
